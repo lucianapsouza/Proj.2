@@ -1,6 +1,6 @@
 # Análise das reclamações de consumidores no Brasil — Um olhar estratégico para melhoria da experiência do cliente.
 
-##Introdução
+## Introdução
 No cenário competitivo atual, compreender as razões que levam consumidores a registrar reclamações é um diferencial estratégico para empresas que buscam não apenas manter seus clientes, mas também fortalecer sua reputação no mercado. 
 A análise das reclamações recebidas no primeiro semestre de 2025 no Brasil oferece uma visão valiosa sobre padrões de insatisfação, expectativas não atendidas e oportunidades de melhoria na experiência do cliente.
 
