@@ -34,4 +34,6 @@ a geração de insights relevantes para compreensão do cenário de reclamaçõe
    pip install pandas requests
 3. Certifique sempre qual é o tipo de arquivo que você está trabalhando: .csv, .xlsx, .xlsm, .xlsb e outros. Caso seja csv, analisar qual o componente de separação (vírgula ou ponto e vírgula)
 4. Sempre salve um back-up do arquivo original antes da manipulação dos dados em Python, caso você precise das informações brutas ou originais.
-5. Documente e comente todas as etapas do seu projeto para que você e outras pessoas possam entender como tudo foi desenvolvido de maneira clara e organizada. 
+5. Documente e comente todas as etapas do seu projeto para que você e outras pessoas possam entender como tudo foi desenvolvido de maneira clara e organizada.
+
+Em andamento...
