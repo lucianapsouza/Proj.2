@@ -10,6 +10,8 @@ Pequenas mudanças estratégicas como, por exemplo, no tempo de resposta, na com
 Ao identificar tendências e causas recorrentes das reclamações, empresas conseguem alinhar melhor seus serviços às necessidades do mercado, antecipar problemas e se destacar pela qualidade no atendimento. 
 Ao mesmo tempo, consumidores passam a usufruir de experiências mais consistentes, criando um ciclo de confiança e transparência.
 
+**Acesse o storytelling no link:**
+
 ## Objetivo
 O objetivo foi identificar os principais problemas que motivaram as reclamações, permitindo que empresas detectem padrões de insatisfação e adotem ações estratégicas para melhorar seus serviços.  
 Para os consumidores, os insights gerados contribuem para experiências mais alinhadas às expectativas, promovendo um mercado mais equilibrado, transparente e orientado à qualidade.
@@ -62,3 +64,8 @@ Enviar pesquisas automáticas após a resolução e oferecer benefícios (ex.: c
 
 - Reforçar equipes em períodos críticos  
 Mapear meses de maior demanda e contratar equipe temporária/realocar funcionários de áreas menos críticas nesses períodos.
+
+
+## Dashboard completo: 
+![Reclamações dos consumidores](https://github.com/user-attachments/assets/0982d70a-69be-4c66-a169-69ce8a16ee9b)
+
