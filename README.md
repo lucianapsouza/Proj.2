@@ -36,4 +36,29 @@ a geração de insights relevantes para compreensão do cenário de reclamaçõe
 4. Sempre salve um back-up do arquivo original antes da manipulação dos dados em Python, caso você precise das informações brutas ou originais.
 5. Documente e comente todas as etapas do seu projeto para que você e outras pessoas possam entender como tudo foi desenvolvido de maneira clara e organizada.
 
-Em andamento...
+## Resultados
+- Mais um milhão de reclamações registradas no período de janeiro a junho de 2025;
+- O tempo médio de resposta para os consumidores foram de 70 dias;
+- Muitas reclamações não avaliadas ou, quando avaliadas, mal avaliadas;
+- O setor financeiro lidera o ranking de queixas;
+- Os principais problemas e queixas estão relacionados a cobrança indevida ou dificuldade no acesso à informações básicas e/ou contração;
+- O semestre de 2025 terminou em alta, com uma queda atípica em março.
+
+## Recomendações 
+- Reduzir tempo de resposta  
+  Implementar chatbots mais inteligentes para dúvidas frequentes (status de pedido, prazos, segunda via), liberando a equipe para casos complexos.
+  
+- Priorizar processos financeiros  
+Automatizar emissão e envio de boletos, ativar alertas de atraso e realizar auditorias mensais nos fluxos de cobrança.
+
+- Facilitar contato e acesso  
+Criar central unificada de atendimento (telefone, e-mail, chat e WhatsApp) com protocolos simplificados de registro.
+
+- Garantir resolução efetiva  
+Implantar sistema de monitoramento de falhas técnicas e gerar alertas automáticos para suporte agir antes do consumidor reclamar.
+
+- Engajar consumidores no feedback  
+Enviar pesquisas automáticas após a resolução e oferecer benefícios (ex.: cupons, pontos) para estimular avaliação, além de investir no pós venda.
+
+- Reforçar equipes em períodos críticos  
+Mapear meses de maior demanda e contratar equipe temporária/realocar funcionários de áreas menos críticas nesses períodos.
